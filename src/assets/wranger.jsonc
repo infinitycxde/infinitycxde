@@ -1,5 +1,7 @@
 {
   "name": "infinitycode",
   "compatibility_date": "2025-07-21",
-  "main": "src/index.ts"
+  "assets": {
+    "directory": "./dist"
+  }
 }
