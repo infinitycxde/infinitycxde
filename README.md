@@ -1,8 +1,7 @@
 # About me 🌳
-I'm a high schooler from the United States. Timezone: `UTC-4` <br>
-I enjoy playing chess, gaming, running, and programming. <br>
-I love music, especially ambience, and I play the piano. Avid fan of Philip Glass. <br><br>
-[Discord](https://discord.com/users/228236907425824770) | [Matrix](https://matrix.to/#/@infinitycode:matrix.org) | [Keybase](https://keybase.io/infinitycxde)<br><br>
+High schooler from the United States. Fan of multiple hobbies, including chess, gaming, and programming.
+# Contact ✉️
+To contact me, you can shoot an email to <infinity@infinitycode.pro>, or start a Matrix chat with [@infinitycode:matrix.org](https://matrix.to/#/@infinitycode). I also use Discord regularly, so if you have a mutual server with me, you can message [@infinitycode](https://discord.com/users/228236907425824770) on Discord. All other platforms may take a while to get to.<br><br>
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=infinitycxde&theme=nord_dark)
